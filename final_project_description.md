@@ -3,6 +3,11 @@
 ## Overview
 The final project for the "Introduction to MLOps" course consists of comprehensive tasks covering Machine Learning model development and serving.
 
+Expected results:
+- Required: your Github repository containing your code, reports, datasets, etc.
+- Optional: external documents/files.
+You can use this project structure/repo to kick off your work. You could even fork it to simplify that process. Feel free to modify that project structure and create/rename folder/files.
+
 ### Goals
 * **Adhere to the ML Lifecycle:** Use the standard ML lifecycle as a continuous reference for all activities.
 * **Software Skills:** Apply essential software development knowledge (version control, modularity) to the ML lifecycle.
