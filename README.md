@@ -2,9 +2,9 @@
 FInal work description in  the [final_project_description.md](final_project_description.md) file.
 
 Student info:
-- Full name:
-- e-mail:
-- Grupo: 
+- Full name: Zavala Figueroa Daniel Angel
+- e-mail: daniel.zavala.f@uni.pe
+- Grupo: III Ciclo Grupo 02
 
 ## Project Name: [Insert Your Project Title Here]
 
