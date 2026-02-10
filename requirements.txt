@@ -1,2 +1,11 @@
 # put here the libraries your project depends on
 # e.g.: Flask, scikit-learn, etc.
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+fastapi
+uvicorn
+mlflow
